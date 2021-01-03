@@ -1,37 +1,60 @@
-## Welcome to GitHub Pages
+## 欢迎使用dhdj.js
 
-You can use the [editor on GitHub](https://github.com/dhdjSYS/dhdj.js/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+dhdj.js 是为onetap v4设计的多功能性JS. 包含AA, Fl, 武器, 视觉, 杂项各种功能，始于2020年6月份。
+目前它是onetap最流行的js之一。价格从最初的免费涨价到了3000元。同时吸引了无数模仿者以及paster。
+目前因为前来购买的客户过多，我又太懒，已暂停出售个人版授权。
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### 授权的经销商列表 (出参授权)
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+下列用户为经过授权的使用dhdj.js正版js的经销商。不在此列的均为盗版。
 
 ```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+dhdj (3332697908)
+NaCo (11437460)
+冰糖 (2812806499)
+喵内 (1044566663)
+Eii (1220871544)
+江晚吟 (2393155975)
+肥仔 (510408155)
+007 (772672437)
+六花 (1402003414)
+noob (1353052741)
+大巴 (1749458347)
+杰尼 (1802637940)
+杰斯 (935078515)
+柠檬 (543886710)
+凯撒 (1073576609)
+佩奇 (3618087236)
+清风明月 (2944412150)
+怕脏 (3277687980)
+阿裘 (1747536040)
+辰 (2956359114)
+Lu. (642638403)
+来日可期 (1615463865)
+蜡笔小新 (1653832327)
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+### 为什么要选择dhdj正版js
 
-### Jekyll Themes
+1.盗版版本参差不齐, 2.0-2.2各版本都有, 多数性能较差或缺少功能。
+2.购买使用盗版js的参数有风险,如果出参老师连js都买不起正版,那他作为一个人又能好到哪去呢。
+3.购买dhdj.js可以支持我让js变得更好。
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/dhdjSYS/dhdj.js/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+### 一些我想说的
 
-### Support or Contact
+从最开始六月份左右的时候开始接触onetap到现在已经半年了。onetap是一个很好的脚本开发平台，api也在逐步完善，甚至有可能赶超skeet的趋势。我最开始是在论坛发布免费js，当然，因为没有接触过hvh，我早期对aa,fl,各种功能的理解都比较差，所以自然js也是很平庸。
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+后来认识了007，我开始在他的群里更新js，最开始打算写付费版的时候他给了我无数的建议，当然大部分都被采纳了。如果你有幸用过dhdj.js v3的版本(1.0) 或者 v4的早期版本(dhdj_antiaim.js,dhdj_fakelag.js,dhdj_weapon.js,dhdj_ui.js)，那你可得感谢007提出的建议。
+
+9月份左右的时候，认识了喵内老师。喵内老师对aa有一种着迷。他每天都来说我aa拉跨，那怎么办嘛，于是我就开始和他24x7在我的服务器测aa。(喵内是无业游民) 当然了，在服务器里一半的时间我们在svs满天飞，另一半的时间在挂机写代码。你们现在所看到的aa部分全部(没有几乎) 来自喵内老师的建议，从最初的dodge bruteforce到之后的reversed jitter以及不同模式下不同的aa，均来自跟喵内老师测参的一个月。 （后续，测aa增强了我对aa以及解析的理解，之后就开始给skeet写解析lua 猛地一批）
+
+一开始的时候付费js的价格很低，个人授权30r，出参授权300r。现在好多授权用户也都是那时候进来的，只能说早买早赚。
+现在都涨价到个人授权300r，出餐授权3000r了，其主要原因是：泄露js。泄的js越多，我的价格就会涨得越高。
+
+你可能问为什么，甚至2.2源码都有被公开的，为什么我还要涨价？其中一个最主要的原因是补票，来找我买的基本上所有人都是来补票的。
+我个人很支持补票的行为，甚至从去年开始给我之前玩过的破解版游戏都补了票，表达我对它们的支持以及喜爱。所以就算我js再涨，也还是会有人来买。
+（在这里说一声对不起跟那些想加我补票，我却不理的人，我qq好友马上要满了所以现在只加听过名字的人，顺便绑uid有点麻烦所以我开始懒得卖了）
+
+说到源码，最近我看到了很多paste的js，有一些是paste几个函数的，甚至还有几个是基本上给老版本面向复制粘贴过去的。 清者自清，没有那个能力写js就不写，别整天paste来paste去圈钱。
+我发誓我js没有一个功能是面向复制粘贴得来的。你可能会说，不是啊，你不是最近才更新了浩劫球和第三人称视角吗？这里有一个误区，模仿和paste代码是有着显著的区别的。所有的功能均是我自己一点一点实现的，我甚至没有看过havoc的源代码。只是听朋友的描述写出来的。当然 很多人想让我paste一些东西加入到js里，基本上都被我一票否决了。其中很大的原因是：功能太烂，不配加入我的js
+2021/1/3
